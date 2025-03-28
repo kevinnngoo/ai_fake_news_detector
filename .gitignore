@@ -1,0 +1,38 @@
+# Dependencies
+/frontend/node_modules/backend/venv
+/backend/__pycache__/backend/app/__pycache__
+/backend/**/__pycache__
+# Environment variables.env
+/frontend/.env/backend/.env
+# Production build
+/frontend/build/frontend/dist
+# IDE files
+.vscode.idea
+*.swp*.swo
+# System files
+.DS_StoreThumbs.db
+# Logs
+npm-debug.log*yarn-debug.log*
+yarn-error.log**.log
+# Testing
+/frontend/coverage
+/backend/.pytest_cache
+.coverage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
