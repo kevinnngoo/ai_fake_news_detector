@@ -131,4 +131,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Kevin Ngo - kevinngo2002@gmail.com
 
-Project Link: [https://github.com/yourusername/ai_fake_news_detector](https://github.com/kevinnngoo/ai_fake_news_detector)
+Project Link: [https://github.com/kevinnngoo/ai_fake_news_detector](https://github.com/kevinnngoo/ai_fake_news_detector)
